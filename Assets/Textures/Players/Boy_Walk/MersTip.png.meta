@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 686d31bc27370d940bc042a3d8b79d8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6734077644064866910
+    second: MersTip_0
+  - first:
+      213: 6347828898915312566
+    second: MersTip_1
+  - first:
+      213: 3997503790369292288
+    second: MersTip_2
+  - first:
+      213: -737409791133695475
+    second: MersTip_3
+  - first:
+      213: -6723533189932368304
+    second: MersTip_4
+  - first:
+      213: 3540186451255432867
+    second: MersTip_5
+  - first:
+      213: 4298286892125975157
+    second: MersTip_6
+  - first:
+      213: -100763683879545988
+    second: MersTip_7
+  - first:
+      213: -9070247647985703909
+    second: MersTip_8
+  - first:
+      213: -2851933803590950946
+    second: MersTip_9
+  - first:
+      213: -3235832104216053265
+    second: MersTip_10
+  - first:
+      213: 535918296641491761
+    second: MersTip_11
+  - first:
+      213: 5940407821690793287
+    second: MersTip_12
+  - first:
+      213: 5024922716941224138
+    second: MersTip_13
+  - first:
+      213: 6547980529746457799
+    second: MersTip_14
+  - first:
+      213: 2636563551756197935
+    second: MersTip_15
+  - first:
+      213: -8070575630420594615
+    second: MersTip_16
+  - first:
+      213: -2958525107540173158
+    second: MersTip_17
+  - first:
+      213: -4875315055126358491
+    second: MersTip_18
+  - first:
+      213: -4326988555486741230
+    second: MersTip_19
+  - first:
+      213: 5191499846620522220
+    second: MersTip_20
+  - first:
+      213: 321801504328878336
+    second: MersTip_21
+  - first:
+      213: 2581134833401789320
+    second: MersTip_22
+  - first:
+      213: -408845039420222466
+    second: MersTip_23
+  - first:
+      213: -5797929993712660236
+    second: MersTip_24
+  - first:
+      213: 7057405167440403387
+    second: MersTip_25
+  - first:
+      213: 1567417938386913190
+    second: MersTip_26
+  - first:
+      213: -8748149318590962321
+    second: MersTip_27
+  - first:
+      213: -2933375849600571838
+    second: MersTip_28
+  - first:
+      213: -1383748481748101326
+    second: MersTip_29
+  - first:
+      213: 935670999982423718
+    second: MersTip_30
+  - first:
+      213: 1644666494089050090
+    second: MersTip_31
+  - first:
+      213: 2733196483129716109
+    second: MersTip_32
+  - first:
+      213: -8666787444325822105
+    second: MersTip_33
+  - first:
+      213: 5655317059868620574
+    second: MersTip_34
+  - first:
+      213: 3628339180062850443
+    second: MersTip_35
+  - first:
+      213: -5490022738347106909
+    second: MersTip_36
+  - first:
+      213: 8757942067285296397
+    second: MersTip_37
+  - first:
+      213: 4091126935585352742
+    second: MersTip_38
+  - first:
+      213: 7270817206700505884
+    second: MersTip_39
+  - first:
+      213: 943096152729638013
+    second: MersTip_40
+  - first:
+      213: -5253073067815137659
+    second: MersTip_41
+  - first:
+      213: 8719832900169972906
+    second: MersTip_42
+  - first:
+      213: -2635227262156786006
+    second: MersTip_43
+  - first:
+      213: -7575674932862522176
+    second: MersTip_44
+  - first:
+      213: -1634105682333192365
+    second: MersTip_45
+  - first:
+      213: 2824188565980916204
+    second: MersTip_46
+  - first:
+      213: -6949626824485737081
+    second: MersTip_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MersTip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692ec11f6c12434eb9cdcd25b765ee1
+      internalID: -6734077644064866910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb66816a5aca8e4c827c8851ceb0f59
+      internalID: 6347828898915312566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e59818c1b55a409bef549019a8421
+      internalID: 3997503790369292288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead3e2e3d5655341a9e93f48a92cab2
+      internalID: -737409791133695475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2bb3461ee2ed4ab469a1bee8d2dfd
+      internalID: -6723533189932368304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27743ce8cf65ea843879e5b212196e0b
+      internalID: 3540186451255432867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254d4dbc8dd02f409c362706b2861a4
+      internalID: 4298286892125975157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf665e61deb234b82724209ab6a9b0
+      internalID: -100763683879545988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f38de0e2549d64bb328fd914c612bf
+      internalID: -9070247647985703909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545ed1c96c23e646b6bc59bf3a22a2a
+      internalID: -2851933803590950946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed04ba5f7b8a64d4092fb55ca15d019c
+      internalID: -3235832104216053265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5936536df6734f99d9e172dd08c1c
+      internalID: 535918296641491761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ca54afb58fd0b4aa53eb6754873b7d
+      internalID: 5940407821690793287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681fd6f7903d954cb7ed55242030700
+      internalID: 5024922716941224138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031b5039d8feeb4baacf2afbcbe37ee
+      internalID: 6547980529746457799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919e62d8e489de428a9b2a9e04022bd
+      internalID: 2636563551756197935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b5cdccacc81843aa6382f63731af4
+      internalID: -8070575630420594615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e74dff13b378f499729468ba337fb7
+      internalID: -2958525107540173158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9fa5945015d0429e8f28f0753206b
+      internalID: -4875315055126358491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408d3aa4cd5a594499b3f03ca37039d3
+      internalID: -4326988555486741230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a047d15d8bf43418da9a4e34b51ea0
+      internalID: 5191499846620522220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63033b94ad628f84ababd09ff260aed5
+      internalID: 321801504328878336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8061839037df73744a047016e0216310
+      internalID: 2581134833401789320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d55d649b925544b9a0428a5a6993a9
+      internalID: -408845039420222466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69375fac90deaa4cbb72c33b9f2323f
+      internalID: -5797929993712660236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc3bd4907e9ee4ea4c500983c18192
+      internalID: 7057405167440403387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb56dfdffb53c248ba9d2b0a4c4bb09
+      internalID: 1567417938386913190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbdfee835e6b6a49b5273d70c6d3645
+      internalID: -8748149318590962321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975f0a060cbbf2546ab7704e2fa75b88
+      internalID: -2933375849600571838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0deec8e3b6e6834bb9e90a1ab72a736
+      internalID: -1383748481748101326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf97dfb6d056f4bbed8b441c4bcdbe
+      internalID: 935670999982423718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fdbe7a981db784a99ea54b0d54e490
+      internalID: 1644666494089050090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d88bc7a4bc5724fae65cef26a9e501
+      internalID: 2733196483129716109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c1cfbd57453b41ad4b7d825edf30d
+      internalID: -8666787444325822105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9add0b3bca5d34d85eccc21851e3c7
+      internalID: 5655317059868620574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ac666828049249bd32b596b417203
+      internalID: 3628339180062850443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06c15df17a63f4ca7e0d0d6f26c9e3
+      internalID: -5490022738347106909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41fa89a4c57ec45b37b324fb849efb
+      internalID: 8757942067285296397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b489e07c5287e964a9a1e2bb77ad868e
+      internalID: 4091126935585352742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91cffc195fc52e43ad3789a917b7276
+      internalID: 7270817206700505884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c6a6336337ea744ad6dbf5801c4e24
+      internalID: 943096152729638013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a875e65e854952c4f9459bb0a9c97576
+      internalID: -5253073067815137659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d407ab656832254e9bed2437e69e326
+      internalID: 8719832900169972906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15624b775cf0ad40b2f23815e0bc647
+      internalID: -2635227262156786006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed360d07ab1ec4a9ad6074c6c8ede1
+      internalID: -7575674932862522176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74409d06a9f1e42b00fc3b3806ca0c
+      internalID: -1634105682333192365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250eb764b8ffa74d95cc58921fc4237
+      internalID: 2824188565980916204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MersTip_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e74f07337b81e49a6901cc7ab1a4c0
+      internalID: -6949626824485737081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 379bec50b383cd543afd2f182ec0bd31
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

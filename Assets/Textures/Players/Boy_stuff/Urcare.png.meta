@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: eba377905f8aa1a4380b76bd0b0dcbd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7365196455882559476
+    second: Urcare_0
+  - first:
+      213: 5405771726824909689
+    second: Urcare_1
+  - first:
+      213: 5050871867005969524
+    second: Urcare_2
+  - first:
+      213: -4216812581047985975
+    second: Urcare_3
+  - first:
+      213: 1342365604408431713
+    second: Urcare_4
+  - first:
+      213: -8845654344968475591
+    second: Urcare_5
+  - first:
+      213: -3874612370891814695
+    second: Urcare_6
+  - first:
+      213: 7934024532660055275
+    second: Urcare_7
+  - first:
+      213: -2744162388699681997
+    second: Urcare_8
+  - first:
+      213: 8015572157248521225
+    second: Urcare_9
+  - first:
+      213: 2660488261752541568
+    second: Urcare_10
+  - first:
+      213: 728736066718081202
+    second: Urcare_11
+  - first:
+      213: -7675753745788657262
+    second: Urcare_12
+  - first:
+      213: -8792421851774361882
+    second: Urcare_13
+  - first:
+      213: 5048063842915024573
+    second: Urcare_14
+  - first:
+      213: -3941269088335119310
+    second: Urcare_15
+  - first:
+      213: -5347201575340712529
+    second: Urcare_16
+  - first:
+      213: -2363156003608395813
+    second: Urcare_17
+  - first:
+      213: -8470276572385906417
+    second: Urcare_18
+  - first:
+      213: 8809939405048175663
+    second: Urcare_19
+  - first:
+      213: 771341056780271895
+    second: Urcare_20
+  - first:
+      213: 3460623387811998224
+    second: Urcare_21
+  - first:
+      213: -3131430735630393769
+    second: Urcare_22
+  - first:
+      213: 4925764070667594034
+    second: Urcare_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Urcare_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc96ccbc6202144bbeefca71074dee
+      internalID: -7365196455882559476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6825477ccd4e40926a8f2201525ec
+      internalID: 5405771726824909689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ffdca16ea2da48b632b4856c31390
+      internalID: 5050871867005969524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f54feba571804a9a88f0e9ad883ef
+      internalID: -4216812581047985975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf27c0b340d220409b45b170aacd1c1
+      internalID: 1342365604408431713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c42f524dfa1db40b4abca0cd9f351d
+      internalID: -8845654344968475591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5b50d72a0222499811f0648e5feb5
+      internalID: -3874612370891814695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2fce87800d4e94082614405df09a27
+      internalID: 7934024532660055275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddd390ae4e2bf94391c226654d7dc90
+      internalID: -2744162388699681997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb365e158e127fe4cb235f541e6b1197
+      internalID: 8015572157248521225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33754ccd9caa73c439168576898c1755
+      internalID: 2660488261752541568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e316db07c1778684eb4a7b6a0be2d29e
+      internalID: 728736066718081202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55224cc4fbafc8743a5bcc1bb61480f3
+      internalID: -7675753745788657262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeac2f8f27cd14b88fe030f3c36775
+      internalID: -8792421851774361882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5865878d9106194b95d703c516f3897
+      internalID: 5048063842915024573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322511baae28b4646a0284638f1ce2c1
+      internalID: -3941269088335119310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4b2cdea22c414489477a4e036e724
+      internalID: -5347201575340712529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b607a7da27ed9458b5967c628c6f42
+      internalID: -2363156003608395813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0c141a7ca650343834e29162ad557f
+      internalID: -8470276572385906417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40567c7cddfdcd6408d5f650ae2365f6
+      internalID: 8809939405048175663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc6ac175a38b41468160bef8a965104
+      internalID: 771341056780271895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2ad247b93e224682851052a0acacd
+      internalID: 3460623387811998224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b972cd0a3e3004cbc0fd0a5f2b300e
+      internalID: -3131430735630393769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b14845c931b11468f1b795c8dfa1b0
+      internalID: 4925764070667594034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 81c038af6d93e874d9cc42963ae7fde5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

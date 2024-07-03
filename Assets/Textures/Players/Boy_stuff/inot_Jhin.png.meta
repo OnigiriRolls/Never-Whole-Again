@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: cfca4917d4b000642a6a4862c92eef3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7218736515876755778
+    second: inot_Jhin_0
+  - first:
+      213: -2526210733373773800
+    second: inot_Jhin_1
+  - first:
+      213: -2951561488054962854
+    second: inot_Jhin_2
+  - first:
+      213: -5963288364969136280
+    second: inot_Jhin_3
+  - first:
+      213: 190475372630434066
+    second: inot_Jhin_4
+  - first:
+      213: 6268569762433262187
+    second: inot_Jhin_5
+  - first:
+      213: -4281940594836278628
+    second: inot_Jhin_6
+  - first:
+      213: 6432049552060932101
+    second: inot_Jhin_7
+  - first:
+      213: -7204312128543598184
+    second: inot_Jhin_8
+  - first:
+      213: -5393006646533723189
+    second: inot_Jhin_9
+  - first:
+      213: -1817300993880886248
+    second: inot_Jhin_10
+  - first:
+      213: -3298579405875796992
+    second: inot_Jhin_11
+  - first:
+      213: -340817552241450440
+    second: inot_Jhin_12
+  - first:
+      213: 1423176455848729954
+    second: inot_Jhin_13
+  - first:
+      213: 3054939782227619365
+    second: inot_Jhin_14
+  - first:
+      213: 5064548579241283292
+    second: inot_Jhin_15
+  - first:
+      213: 4691329775363637256
+    second: inot_Jhin_16
+  - first:
+      213: -8078257424782528783
+    second: inot_Jhin_17
+  - first:
+      213: -1682437017949469903
+    second: inot_Jhin_18
+  - first:
+      213: -7809003534177939571
+    second: inot_Jhin_19
+  - first:
+      213: -5353837163121253411
+    second: inot_Jhin_20
+  - first:
+      213: -8495588150146875553
+    second: inot_Jhin_21
+  - first:
+      213: 9083931713225154305
+    second: inot_Jhin_22
+  - first:
+      213: -38935860140927436
+    second: inot_Jhin_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inot_Jhin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3bd07ba749dd4c84c3c898f2f0685
+      internalID: 7218736515876755778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08839344eff9284b967986a3b1e208f
+      internalID: -2526210733373773800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e277d8e34ad824fba7f3191a26379d
+      internalID: -2951561488054962854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44faea2ffd1a54544bee87af7182e94e
+      internalID: -5963288364969136280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6045b7b15660d54394fee0300c03bc4
+      internalID: 190475372630434066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76763af7bcb201459624c741f56b7d9
+      internalID: 6268569762433262187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec57b68d8d748428886997c5215e13
+      internalID: -4281940594836278628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946321d74e5cd846b1ae143105f82f7
+      internalID: 6432049552060932101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d62e8706a9e084eb20404658c01015
+      internalID: -7204312128543598184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a717b36735ea44844b965ff8a7ffac7d
+      internalID: -5393006646533723189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65af93ea84070ce4bbf61e1c2fcdf27d
+      internalID: -1817300993880886248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387d167893006b48a79b19b5c98789c
+      internalID: -3298579405875796992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c48b1d7d815d41a304ff84d8f1dcb
+      internalID: -340817552241450440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d5c5d5f9b22144be8c849b70693fd
+      internalID: 1423176455848729954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7189257e04e9b2540994d2a324d06ef2
+      internalID: 3054939782227619365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472a0c80556df7428705ca1a2f2cbec
+      internalID: 5064548579241283292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae93381f22fad54797bb1f89b31c43c
+      internalID: 4691329775363637256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b362df06bac7b7a499dacda52b5ec7c5
+      internalID: -8078257424782528783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd0086fc36a014992c1e871d491d63
+      internalID: -1682437017949469903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a317ae9c0b25449694bbe51c521e5
+      internalID: -7809003534177939571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f7d01e59ec8943ad23f5a96232b7d
+      internalID: -5353837163121253411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d752d1c12fa149819264f78b60fb3
+      internalID: -8495588150146875553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a4af6fa3ef7d429ddf0701145c862
+      internalID: 9083931713225154305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inot_Jhin_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b951b55a238425449929a35ce686064
+      internalID: -38935860140927436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c78fc1e1cc1c70a429faee9a3e1cea5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 09dd772842920c348a44956834d4e8b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8048715542485354500
+    second: mersfataspate_0
+  - first:
+      213: -1397063621848547557
+    second: mersfataspate_1
+  - first:
+      213: -6632924717512039457
+    second: mersfataspate_2
+  - first:
+      213: 7867676269225448320
+    second: mersfataspate_3
+  - first:
+      213: 8892849454240633663
+    second: mersfataspate_4
+  - first:
+      213: -8480340029675013544
+    second: mersfataspate_5
+  - first:
+      213: -5761725337378260116
+    second: mersfataspate_6
+  - first:
+      213: 7112008532958714336
+    second: mersfataspate_7
+  - first:
+      213: 7540905053884619131
+    second: mersfataspate_8
+  - first:
+      213: -3972129427515359429
+    second: mersfataspate_9
+  - first:
+      213: -2093012724327147792
+    second: mersfataspate_10
+  - first:
+      213: -3454518258507813538
+    second: mersfataspate_11
+  - first:
+      213: -8404310250047054283
+    second: mersfataspate_12
+  - first:
+      213: 3226307229089698595
+    second: mersfataspate_13
+  - first:
+      213: -283848306754755428
+    second: mersfataspate_14
+  - first:
+      213: 4207110333324853402
+    second: mersfataspate_15
+  - first:
+      213: 7302693731757721248
+    second: mersfataspate_16
+  - first:
+      213: 4665081871806008375
+    second: mersfataspate_17
+  - first:
+      213: -8660581323887795292
+    second: mersfataspate_18
+  - first:
+      213: 4897892267511447976
+    second: mersfataspate_19
+  - first:
+      213: 1536898380344071915
+    second: mersfataspate_20
+  - first:
+      213: 2734934360807762476
+    second: mersfataspate_21
+  - first:
+      213: 9164612186405817225
+    second: mersfataspate_22
+  - first:
+      213: 5161194009275426080
+    second: mersfataspate_23
+  - first:
+      213: -1171039243606138311
+    second: mersfataspate_24
+  - first:
+      213: 5304673219121174776
+    second: mersfataspate_25
+  - first:
+      213: 7245089097120247124
+    second: mersfataspate_26
+  - first:
+      213: 755044872784531541
+    second: mersfataspate_27
+  - first:
+      213: -9041066846905065857
+    second: mersfataspate_28
+  - first:
+      213: 4061184485210252752
+    second: mersfataspate_29
+  - first:
+      213: -3299283561469409359
+    second: mersfataspate_30
+  - first:
+      213: -8929396091364053890
+    second: mersfataspate_31
+  - first:
+      213: -614721886471614558
+    second: mersfataspate_32
+  - first:
+      213: 934234405260006720
+    second: mersfataspate_33
+  - first:
+      213: -463304553851516341
+    second: mersfataspate_34
+  - first:
+      213: 4343975580726804395
+    second: mersfataspate_35
+  - first:
+      213: -6451372633998488200
+    second: mersfataspate_36
+  - first:
+      213: -4154320323350976205
+    second: mersfataspate_37
+  - first:
+      213: -5062592613178756041
+    second: mersfataspate_38
+  - first:
+      213: -861716822330256825
+    second: mersfataspate_39
+  - first:
+      213: 465621802793002194
+    second: mersfataspate_40
+  - first:
+      213: -2314302576207407968
+    second: mersfataspate_41
+  - first:
+      213: 3195103334284182522
+    second: mersfataspate_42
+  - first:
+      213: -6428118781606514753
+    second: mersfataspate_43
+  - first:
+      213: -6076131402810816323
+    second: mersfataspate_44
+  - first:
+      213: 8234671902368462569
+    second: mersfataspate_45
+  - first:
+      213: -5152201431469886123
+    second: mersfataspate_46
+  - first:
+      213: -8340203633567015388
+    second: mersfataspate_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mersfataspate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc3804e24256494faf9e5f32c72f5e2
+      internalID: -8048715542485354500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d150f8eb393b42b071a03885c3400
+      internalID: -1397063621848547557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add1727cba190f7439bb1f4166ece8a4
+      internalID: -6632924717512039457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c49c34466c178d45922a483e2d40352
+      internalID: 7867676269225448320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972153db57b53d4a8ad00fcb6bbbf1b
+      internalID: 8892849454240633663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 490
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7849cd2b6b73643aba113c150cd537
+      internalID: -8480340029675013544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24953d87acf670e498a2c0d44c2fef53
+      internalID: -5761725337378260116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9870b4c7c228a419988de66f0f740d
+      internalID: 7112008532958714336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0abc9a3bc2c548985bf51def42341
+      internalID: 7540905053884619131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004eb9a1a1136a448c10a4737de8421
+      internalID: -3972129427515359429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4af51e57ee2154693c4b63755c6c71
+      internalID: -2093012724327147792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 420
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c0830b6e5ba440b2e87ebf46b3670
+      internalID: -3454518258507813538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a12d98944b3645b269d0db31d3b15
+      internalID: -8404310250047054283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443c09226d03cc4b951b7bbf1b287ec
+      internalID: 3226307229089698595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a2c30d272936b4092a16cb1ca2287f
+      internalID: -283848306754755428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb42d4d1fa50d4aba8786d4c4ea92d
+      internalID: 4207110333324853402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e404064178913458e1356b6154a45a
+      internalID: 7302693731757721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c168821cece804e83234422ce2dafd
+      internalID: 4665081871806008375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b33cec1c58534e8dca7d1189f8ab1
+      internalID: -8660581323887795292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697dc3248c0c3849a52b2c64c62318e
+      internalID: 4897892267511447976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9683428625c392940b956c908ee3b7ef
+      internalID: 1536898380344071915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1885bf041477e94bb52612ada0ba6e5
+      internalID: 2734934360807762476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a087e69a70cc91b409fb45a5a6515ea7
+      internalID: 9164612186405817225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16076bbd2042b8841a5c2a8d1b6d5a25
+      internalID: 5161194009275426080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5bf1448a312641958548695ccd7fe
+      internalID: -1171039243606138311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65adad0bee3fc47af6974dc7729e3e
+      internalID: 5304673219121174776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7283966aab5a6543b5649c0f95366ad
+      internalID: 7245089097120247124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1913e164c06a31c48bb8f381d083723d
+      internalID: 755044872784531541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df4dfc190cb2724c901539f6516a8db
+      internalID: -9041066846905065857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6391d5c3f0b1a04db4d95857e5324cb
+      internalID: 4061184485210252752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83de84c2add6d1b43b8d79ad0d65edc4
+      internalID: -3299283561469409359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e625c9fb3ae56a48a5054ec88a4f663
+      internalID: -8929396091364053890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1acc635440674ca882a851a50d2e6
+      internalID: -614721886471614558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc58e9b1eec92f4796a79326a09147e
+      internalID: 934234405260006720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2ad0ced5327547a183980a50eac17
+      internalID: -463304553851516341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551599a6dfd802148a33b4b73c5ea2ea
+      internalID: 4343975580726804395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea46eeffa461294282ba9b1bfd796c0
+      internalID: -6451372633998488200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86812c13edf0f7b46a19cfdb88a76103
+      internalID: -4154320323350976205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736999e8e790eb14e84695dcf6a2967b
+      internalID: -5062592613178756041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc62e73ea4ecac478a2bcd1e44df8eb
+      internalID: -861716822330256825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80614f31a4383cb42b447b53bbe434ef
+      internalID: 465621802793002194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd1d7e955a7c04f8de0bcabf490b1e
+      internalID: -2314302576207407968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256b9f09dc21c0448e71ca6dc1ee7a1
+      internalID: 3195103334284182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f35acb1ecef6454f970ba2a19ae454d
+      internalID: -6428118781606514753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b56161bb96f741ac5ee6eb173b6b3
+      internalID: -6076131402810816323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc93fce3186eb74db862e3c890380a7
+      internalID: 8234671902368462569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb75e8b248e7f44aaf83bcc4f74e419
+      internalID: -5152201431469886123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersfataspate_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb342271320305459357f53dccae021
+      internalID: -8340203633567015388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd6a4c684ae2da84db57ef0e935545d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

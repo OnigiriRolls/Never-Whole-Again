@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: f80863d1e7c7ea149b0b4ff4f1fe44c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8041044875487189444
+    second: mersCuTeea_0
+  - first:
+      213: 1922543925765960137
+    second: mersCuTeea_1
+  - first:
+      213: 1985511181962301441
+    second: mersCuTeea_2
+  - first:
+      213: 6772196197070172580
+    second: mersCuTeea_3
+  - first:
+      213: -6022840420475993102
+    second: mersCuTeea_4
+  - first:
+      213: -4574124911922743661
+    second: mersCuTeea_5
+  - first:
+      213: -6762679282466212362
+    second: mersCuTeea_6
+  - first:
+      213: -8263300861317173803
+    second: mersCuTeea_7
+  - first:
+      213: -118897976963963836
+    second: mersCuTeea_8
+  - first:
+      213: -4747457517955248581
+    second: mersCuTeea_9
+  - first:
+      213: 6986445737961339952
+    second: mersCuTeea_10
+  - first:
+      213: 1590182006042506965
+    second: mersCuTeea_11
+  - first:
+      213: 8851973162749899061
+    second: mersCuTeea_12
+  - first:
+      213: 3680017601993831025
+    second: mersCuTeea_13
+  - first:
+      213: 1653485127872980739
+    second: mersCuTeea_14
+  - first:
+      213: -6401302140582390022
+    second: mersCuTeea_15
+  - first:
+      213: 2032985419443773594
+    second: mersCuTeea_16
+  - first:
+      213: 2402847314009999199
+    second: mersCuTeea_17
+  - first:
+      213: 2038015214009170842
+    second: mersCuTeea_18
+  - first:
+      213: 2436602465574737833
+    second: mersCuTeea_19
+  - first:
+      213: -95765612176805491
+    second: mersCuTeea_20
+  - first:
+      213: 8081200368935507168
+    second: mersCuTeea_21
+  - first:
+      213: 4383119850984821291
+    second: mersCuTeea_22
+  - first:
+      213: 3212644715690769186
+    second: mersCuTeea_23
+  - first:
+      213: 561489391921172935
+    second: mersCuTeea_24
+  - first:
+      213: 5552720594629484244
+    second: mersCuTeea_25
+  - first:
+      213: 482501280914642865
+    second: mersCuTeea_26
+  - first:
+      213: 851666327492092318
+    second: mersCuTeea_27
+  - first:
+      213: 3795928073989664632
+    second: mersCuTeea_28
+  - first:
+      213: 1393688472127442854
+    second: mersCuTeea_29
+  - first:
+      213: 6619549572121517155
+    second: mersCuTeea_30
+  - first:
+      213: 4533213736892300495
+    second: mersCuTeea_31
+  - first:
+      213: 7859078633999143139
+    second: mersCuTeea_32
+  - first:
+      213: -5413012036985457423
+    second: mersCuTeea_33
+  - first:
+      213: 7746445639911743072
+    second: mersCuTeea_34
+  - first:
+      213: -3139292555063007562
+    second: mersCuTeea_35
+  - first:
+      213: 3216286246726438323
+    second: mersCuTeea_36
+  - first:
+      213: -8806740996273230106
+    second: mersCuTeea_37
+  - first:
+      213: 3569876664008086034
+    second: mersCuTeea_38
+  - first:
+      213: 1966138355590749164
+    second: mersCuTeea_39
+  - first:
+      213: -4296075899514250158
+    second: mersCuTeea_40
+  - first:
+      213: 2427287468600920040
+    second: mersCuTeea_41
+  - first:
+      213: 393411352671864771
+    second: mersCuTeea_42
+  - first:
+      213: 4316914553877719386
+    second: mersCuTeea_43
+  - first:
+      213: -1998914637586765940
+    second: mersCuTeea_44
+  - first:
+      213: 6925804778052973201
+    second: mersCuTeea_45
+  - first:
+      213: -4969271880879531180
+    second: mersCuTeea_46
+  - first:
+      213: -7950963212787267695
+    second: mersCuTeea_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mersCuTeea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3413b76077938f4687770b14810e8aa
+      internalID: -8041044875487189444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 490
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3440de98d004943aaca2cc099426a7
+      internalID: 1922543925765960137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 490
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d5ef7ed726d94da52700ad7b45729
+      internalID: 1985511181962301441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 490
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512b8d348328334eab950f0bad182f5
+      internalID: 6772196197070172580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 490
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17986ef1e0739e643a360e5f6e8709ff
+      internalID: -6022840420475993102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 490
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17182b21c968fcf42ae12887f88ac54a
+      internalID: -4574124911922743661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4681ccb2f1efa40aa0c453e8165bac
+      internalID: -6762679282466212362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669ba53f8398aa488f6d99b321b811d
+      internalID: -8263300861317173803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7192f408195a874088fca7c2647a5dd
+      internalID: -118897976963963836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aabe46eae4f0744e98e54bd03e63651
+      internalID: -4747457517955248581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ab9467cc8e8ab4db5e995889a7a500
+      internalID: 6986445737961339952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432383641a293f4c8eb1354542a55b1
+      internalID: 1590182006042506965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4189c45f5fc2342b70cc9675d5ca61
+      internalID: 8851973162749899061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 350
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b01c2ea3cd5e64c9460373ecc16b04
+      internalID: 3680017601993831025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 350
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8212edc39d2ed428ea624242ea6d87
+      internalID: 1653485127872980739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 350
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3336c2939f57e14289954a73297fab8
+      internalID: -6401302140582390022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 350
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a83f71074143c4ab927c14c75f2edb
+      internalID: 2032985419443773594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda16a44b2cabef48bd02478c88d8662
+      internalID: 2402847314009999199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f22a482e1aa9b40af95f6ebdafc698
+      internalID: 2038015214009170842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318f77b02b1d0c499c2da24e7d7b0dc
+      internalID: 2436602465574737833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a39c990e89847e47828b39360f3f163
+      internalID: -95765612176805491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 280
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4c0bc99c0b494d9b8a69ffa3ce238
+      internalID: 8081200368935507168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da094dbdf91b5a843bb7e37939b28e20
+      internalID: 4383119850984821291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef79884e63ae954987270da8b25501b
+      internalID: 3212644715690769186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e336f2b72ceb8c419f74db200402874
+      internalID: 561489391921172935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95cb0ab6a940ef4281ebf4a25f37c77
+      internalID: 5552720594629484244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca39ed39c9ec6840ac69254df95f820
+      internalID: 482501280914642865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d1fd9e36edd9a40ab2017a424d7253
+      internalID: 851666327492092318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b685652e2c603044cba01fa0a8f15d4c
+      internalID: 3795928073989664632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f74e7359bbbe40b1f32161cd12377
+      internalID: 1393688472127442854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e16805fbe17494e9a044290b4d23a5
+      internalID: 6619549572121517155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32710c2bce6a4cb4ca9b0fecb47dc030
+      internalID: 4533213736892300495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff587397aa18a489f3966294e871db
+      internalID: 7859078633999143139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee35c938326e2324d9bc22728bb6f715
+      internalID: -5413012036985457423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c2fcf6f682b3e4b916072cbcc723cb
+      internalID: 7746445639911743072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 140
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f14816b32060142bc5e11197db1e03
+      internalID: -3139292555063007562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279beaa7bc67bb34c9eb74b7b4844f40
+      internalID: 3216286246726438323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ae6427292e4414c95164cbc72ee631
+      internalID: -8806740996273230106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f39607ed2bffb4585b8f3d9c27861c
+      internalID: 3569876664008086034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a9741f9e64e74389daa04df24c5de
+      internalID: 1966138355590749164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf824640279cce74b8f6f57ca6959728
+      internalID: -4296075899514250158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323308e6321ca3b45a8c69ccd9a5cdb2
+      internalID: 2427287468600920040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9784a736c021f846bfe8c5ba795bf84
+      internalID: 393411352671864771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8e6eba0fb6a2438b384873673f375
+      internalID: 4316914553877719386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7b1c0c5d524445a12859830ebafce
+      internalID: -1998914637586765940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4adbd715534e0458c7e6e012223347
+      internalID: 6925804778052973201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976886b084bb69d498a13a73fc54ff92
+      internalID: -4969271880879531180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mersCuTeea_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c92bfc53e7c7904cbcd869acfdb9996
+      internalID: -7950963212787267695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7cf8653c4602954fb4cb1af0b13bf3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

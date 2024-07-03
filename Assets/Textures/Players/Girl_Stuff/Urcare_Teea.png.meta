@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 6cbe6065aa4925245a1bd85fb77c1991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5759901661634028133
+    second: Urcare_Teea_0
+  - first:
+      213: -5703571918536357427
+    second: Urcare_Teea_1
+  - first:
+      213: 7549132468857391156
+    second: Urcare_Teea_2
+  - first:
+      213: 8322879897900483540
+    second: Urcare_Teea_3
+  - first:
+      213: 5995838026586328047
+    second: Urcare_Teea_4
+  - first:
+      213: 3746705559977670783
+    second: Urcare_Teea_5
+  - first:
+      213: -4110081251358261713
+    second: Urcare_Teea_6
+  - first:
+      213: 4579072151013373388
+    second: Urcare_Teea_7
+  - first:
+      213: 3790141753701157886
+    second: Urcare_Teea_8
+  - first:
+      213: -3760941446833961753
+    second: Urcare_Teea_9
+  - first:
+      213: 8111385065486103497
+    second: Urcare_Teea_10
+  - first:
+      213: 22322119431047695
+    second: Urcare_Teea_11
+  - first:
+      213: -2284884212931847657
+    second: Urcare_Teea_12
+  - first:
+      213: -1710196943343301673
+    second: Urcare_Teea_13
+  - first:
+      213: -7676603489178737404
+    second: Urcare_Teea_14
+  - first:
+      213: -3770131564496512059
+    second: Urcare_Teea_15
+  - first:
+      213: 764516641485490248
+    second: Urcare_Teea_16
+  - first:
+      213: 6054779533152999595
+    second: Urcare_Teea_17
+  - first:
+      213: 2713290047662369997
+    second: Urcare_Teea_18
+  - first:
+      213: -5176446003109629203
+    second: Urcare_Teea_19
+  - first:
+      213: 4871331692794910842
+    second: Urcare_Teea_20
+  - first:
+      213: 5655190547484529805
+    second: Urcare_Teea_21
+  - first:
+      213: -8342060678699755081
+    second: Urcare_Teea_22
+  - first:
+      213: 7984935320188001703
+    second: Urcare_Teea_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Urcare_Teea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a15a7c20c9514b83fc316b7be2989
+      internalID: 5759901661634028133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc42adab5a45984b9b12db4ff6411c2
+      internalID: -5703571918536357427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a24a1d3d6a35b4390226de5308309e
+      internalID: 7549132468857391156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5818f60190d7c54fab6e0876a7f777f
+      internalID: 8322879897900483540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d7d8b5eb5809408ae893537b497f0
+      internalID: 5995838026586328047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 420
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c331db3933b9974f8450e29af062af6
+      internalID: 3746705559977670783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f50c4ab1096b64880f6093cddc3613
+      internalID: -4110081251358261713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfddaa1674e2c4293f6a7715438444
+      internalID: 4579072151013373388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16bcbfe1c41ae54e9f6f25410eacfff
+      internalID: 3790141753701157886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734c22754d173f4d9efb27759cac304
+      internalID: -3760941446833961753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b07f50f41a3149a354325218c8bfd
+      internalID: 8111385065486103497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 280
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeaf7f0bc54ba44d979468ebbcc2b1c
+      internalID: 22322119431047695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cbcb11d1b45394cb6e3583c4672421
+      internalID: -2284884212931847657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b083d3b067c445b4e92d05ceae147
+      internalID: -1710196943343301673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fea8bdf3fe34847b94b7152e56b04f
+      internalID: -7676603489178737404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cabf5cd1098e664286221f196481361
+      internalID: -3770131564496512059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7b9e75547f68409771bd76d3a11b0
+      internalID: 764516641485490248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 140
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa5e17f19942944a5bae48b861267a
+      internalID: 6054779533152999595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d23971cd744d04ebaf83e369ecd5dc
+      internalID: 2713290047662369997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899569021dd886546ac4e61305d7e8d3
+      internalID: -5176446003109629203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5db4661f00f34e8c46837f4afbe74
+      internalID: 4871331692794910842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86dc198f689a445b9e963b0c9529c2
+      internalID: 5655190547484529805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa98dcac56b5f540bb377d64c0a6f03
+      internalID: -8342060678699755081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urcare_Teea_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a699cdf9dce11f94f917006810e10a50
+      internalID: 7984935320188001703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2db56e49166241149a9d5fa5c4bd3b2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

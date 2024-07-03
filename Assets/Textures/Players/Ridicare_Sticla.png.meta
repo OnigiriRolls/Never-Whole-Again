@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 474cdc02f9ea5b94ea6d221c0b4fd487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5658578797758553760
+    second: Ridicare_Sticla_0
+  - first:
+      213: 496979185915182301
+    second: Ridicare_Sticla_1
+  - first:
+      213: 8454421216237185572
+    second: Ridicare_Sticla_2
+  - first:
+      213: 176767557137310253
+    second: Ridicare_Sticla_3
+  - first:
+      213: 8626057328897070459
+    second: Ridicare_Sticla_4
+  - first:
+      213: -3444486425389376767
+    second: Ridicare_Sticla_5
+  - first:
+      213: -7243656437834842787
+    second: Ridicare_Sticla_6
+  - first:
+      213: 5074326253184401178
+    second: Ridicare_Sticla_7
+  - first:
+      213: -9161230915046911435
+    second: Ridicare_Sticla_8
+  - first:
+      213: -8473791996524043209
+    second: Ridicare_Sticla_9
+  - first:
+      213: -9157519668170245808
+    second: Ridicare_Sticla_10
+  - first:
+      213: -1322529176860917154
+    second: Ridicare_Sticla_11
+  - first:
+      213: -3836181856691457640
+    second: Ridicare_Sticla_12
+  - first:
+      213: 397483344821870322
+    second: Ridicare_Sticla_13
+  - first:
+      213: 2913310239881692812
+    second: Ridicare_Sticla_14
+  - first:
+      213: 3221147134695884130
+    second: Ridicare_Sticla_15
+  - first:
+      213: 8017964110641370183
+    second: Ridicare_Sticla_16
+  - first:
+      213: -2420322476765865582
+    second: Ridicare_Sticla_17
+  - first:
+      213: 4335938412191915863
+    second: Ridicare_Sticla_18
+  - first:
+      213: 9206181408645525018
+    second: Ridicare_Sticla_19
+  - first:
+      213: -8713640382942408244
+    second: Ridicare_Sticla_20
+  - first:
+      213: -2552033290960094983
+    second: Ridicare_Sticla_21
+  - first:
+      213: 1183764107237750871
+    second: Ridicare_Sticla_22
+  - first:
+      213: -20903682293166309
+    second: Ridicare_Sticla_23
+  - first:
+      213: -9013182026661827001
+    second: Ridicare_Sticla_24
+  - first:
+      213: 4379346337803689175
+    second: Ridicare_Sticla_25
+  - first:
+      213: -6974716689460812118
+    second: Ridicare_Sticla_26
+  - first:
+      213: 6963624624704351317
+    second: Ridicare_Sticla_27
+  - first:
+      213: 8680811693428836490
+    second: Ridicare_Sticla_28
+  - first:
+      213: 776619064358648980
+    second: Ridicare_Sticla_29
+  - first:
+      213: 7631976804447462570
+    second: Ridicare_Sticla_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ridicare_Sticla_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6282da5ba53090344a40cfc8d98e3a73
+      internalID: 5658578797758553760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea3c10081e7f54bb6840b17f4ada9a
+      internalID: 496979185915182301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243c0c048b4de04aaf9e8875cde259e
+      internalID: 8454421216237185572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8af5591512f1948ac101de819e97f0
+      internalID: 176767557137310253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607dccdc951b5d44a6d522dd70b6460
+      internalID: 8626057328897070459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63db7acd4b8574ca8d9323cc5ca900
+      internalID: -3444486425389376767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de56ff901149334dac0ed7f1d7280ed
+      internalID: -7243656437834842787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1ff080b4e82c4cba23ebeeb2dd841
+      internalID: 5074326253184401178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef496bcde83fa44691976d5b818a1c3
+      internalID: -9161230915046911435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9794ba11895ee4683431b111bb517b
+      internalID: -8473791996524043209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba4af9c76069244994ef0a1341d9d3
+      internalID: -9157519668170245808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd96c681ddbaa4dbe0b29f29f3c761
+      internalID: -1322529176860917154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d738f455e1e6804a8e10242b11da0b1
+      internalID: -3836181856691457640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da88b7f7b57c04b8110165306ba8e4
+      internalID: 397483344821870322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_14
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465fef1d808f190428bcdb92f077621f
+      internalID: 2913310239881692812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_15
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 300
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62864cc5a109d1468f4762d0bba9346
+      internalID: 3221147134695884130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e596c4df2559e94c839e889460377c7
+      internalID: 8017964110641370183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f07b3c07e5a924a9a8df2cbb5d03f1
+      internalID: -2420322476765865582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0725ea2974cb54d81fa297768e56d2
+      internalID: 4335938412191915863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee65a5efb9b2b4e8b78fa97a69ab0e
+      internalID: 9206181408645525018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db243693450164345951b98dec24762a
+      internalID: -8713640382942408244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a48e01c1711e48a6bf44e2424a336
+      internalID: -2552033290960094983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604a403aaf86869449f4a6d6fc0a12f5
+      internalID: 1183764107237750871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670880930759f844baa3915b3317c854
+      internalID: -20903682293166309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_24
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701bc4b43947af43936e1b1c8e8ccee
+      internalID: -9013182026661827001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8435243b91df64ebfd64091328217d
+      internalID: 4379346337803689175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_26
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95fdc4d081b1cc4888bf4dab5d7164f
+      internalID: -6974716689460812118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_27
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce19f4ab12f7964dbf6a35eb942d76e
+      internalID: 6963624624704351317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa797477a99be4eba7184d68346ae6
+      internalID: 8680811693428836490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_29
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16471210d270c4994b03c9c14ef692
+      internalID: 776619064358648980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ridicare_Sticla_30
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47f9339d217e14a98a6e4ffdce5cb7
+      internalID: 7631976804447462570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5537cb7af7dd1134b95c2e50b0bafac6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

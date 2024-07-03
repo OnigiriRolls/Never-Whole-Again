@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Object
+  - ToFill
+  - Filled
+  - wire
+  - redf
+  - bluef
+  - blue
+  - green
+  - combine
+  - fish
+  - mermaid
+  - vertical
+  - horizontal
+  - game board
+  - bullet
+  - wall
+  - destroy
+  - fish1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - player
+  - 
+  - big fish
+  - enemy
+  - teea
+  - piece
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1531661295
+    locked: 0
+  - name: Objects
+    uniqueID: 544173351
+    locked: 0
+  - name: Player
+    uniqueID: 2459082399
+    locked: 0

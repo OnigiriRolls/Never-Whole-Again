@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 3e043a74b21b4244aaa372da76f6bb82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3034560187225948563
+    second: Oxygen_Bar_0
+  - first:
+      213: -6184837752128699732
+    second: Oxygen_Bar_1
+  - first:
+      213: -3326958697990458438
+    second: Oxygen_Bar_2
+  - first:
+      213: 88472799042921543
+    second: Oxygen_Bar_3
+  - first:
+      213: -7869469227179898024
+    second: Oxygen_Bar_4
+  - first:
+      213: 7280727112105454827
+    second: Oxygen_Bar_5
+  - first:
+      213: 3209015417773604619
+    second: Oxygen_Bar_6
+  - first:
+      213: -1698712708109298285
+    second: Oxygen_Bar_7
+  - first:
+      213: 1894013534807489493
+    second: Oxygen_Bar_8
+  - first:
+      213: 259037290009389846
+    second: Oxygen_Bar_9
+  - first:
+      213: -1372317296011813544
+    second: Oxygen_Bar_10
+  - first:
+      213: 8974879658836772749
+    second: Oxygen_Bar_11
+  - first:
+      213: 3095504902187732905
+    second: Oxygen_Bar_12
+  - first:
+      213: 7071014561273654730
+    second: Oxygen_Bar_13
+  - first:
+      213: 8944929057586303431
+    second: Oxygen_Bar_14
+  - first:
+      213: -2254552745371426975
+    second: Oxygen_Bar_15
+  - first:
+      213: -3805380014610577171
+    second: Oxygen_Bar_16
+  - first:
+      213: -6693338423600751233
+    second: Oxygen_Bar_17
+  - first:
+      213: 590559637585869721
+    second: Oxygen_Bar_18
+  - first:
+      213: -8242571519020268398
+    second: Oxygen_Bar_19
+  - first:
+      213: -8301257834971054308
+    second: Oxygen_Bar_20
+  - first:
+      213: 644693667484061287
+    second: Oxygen_Bar_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxygen_Bar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81533c2decf534fbd118e06458a05d
+      internalID: -3034560187225948563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac67ec1013ffe248b783b2f30187a0f
+      internalID: -6184837752128699732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c80e50c719577c46ae2621d623b7418
+      internalID: -3326958697990458438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49e18481abb714cba9030180bfa9fa
+      internalID: 88472799042921543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b7fabe3117fc7468324e3331a9068e
+      internalID: -7869469227179898024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5fa8d429d95a44b927e2b3c5ea416e
+      internalID: 7280727112105454827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58521594425c04ca662b2ba38217e5
+      internalID: 3209015417773604619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 100
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b44316fcb3654e8360a9b13f1a5fb
+      internalID: -1698712708109298285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 100
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013572d004fdfb4381ed444fa19407d
+      internalID: 1894013534807489493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82db2817bef79a84d829a8b56bea008a
+      internalID: 259037290009389846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b8e0c5e8632b43ae780dba3f904af
+      internalID: -1372317296011813544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c163293a16c442849f104b11e4c68
+      internalID: 8974879658836772749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b4b9bcb954f2408d566c2960f08e9
+      internalID: 3095504902187732905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a022b0a7e753469c364cfa8ffd446
+      internalID: 7071014561273654730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03fb1c944396be45ab4d4a1a28a5621
+      internalID: 8944929057586303431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c27c706194aead48a1b2a670212d704
+      internalID: -2254552745371426975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24aa8498a8b37e4fa954a7dd1721e62
+      internalID: -3805380014610577171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad380bc9e37c834584b0a9f5ee05592
+      internalID: -6693338423600751233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332b2686e10977043b11334a25d1e9c3
+      internalID: 590559637585869721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dab6d2af18d65545b44bed3d5b9a9b4
+      internalID: -8242571519020268398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 20
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a7a0c00576e754e9d691c23f21cc63
+      internalID: -8301257834971054308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxygen_Bar_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994446a8c9cb314492fad25036559c3
+      internalID: 644693667484061287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb77055682188294eb5b850267df5eec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
